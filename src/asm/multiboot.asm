@@ -7,7 +7,7 @@ header_start:
     dd 0x100000000 - (0xe85250d6 + 0 + (header_end - header_start)) ; checksum
 
     dw 5        ; type = 5 (framebuffer)
-    dw 7        ; flags
+    dw 0        ; flags
     dd 20       ; size
     dd 1024     ; width
     dd 768      ; height

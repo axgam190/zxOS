@@ -2,7 +2,8 @@
 
 stdint.h
 
-Written by axgam190. Basic conventional types such as uint8_t, uint16_t, etc.
+Written by axgam190 for zxOS. 
+Basic conventional types such as uint8_t, uint16_t, etc.
 
 */
 

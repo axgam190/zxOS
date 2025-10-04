@@ -8,4 +8,5 @@ align 4
 start:
     call kernel_main
 end:
+    hlt
     jmp end
