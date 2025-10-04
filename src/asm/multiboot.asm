@@ -13,6 +13,8 @@ header_start:
     dd 768      ; height
     dd 32       ; bpp
 
+    align 8
+
     dw 0
     dw 0
     dd 8
